@@ -1,0 +1,2 @@
+publishable_key=pk_test_0d8b9zKx6R0iGfJ666JGtO1R00YrwP9Gtv
+secret_key=sk_test_wmL7byA4Qp7t2LxItzFkrJoc00r3M5KWQs

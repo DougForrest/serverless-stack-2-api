@@ -55,6 +55,8 @@ Finally, run this to deploy to your AWS account.
 
 ``` bash
 $ serverless deploy
+
+$ serverless deploy --stage $STAGE_NAME
 ```
 
 #### Maintainers
